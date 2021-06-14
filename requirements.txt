@@ -23,4 +23,4 @@ six==1.11.0
 tldextract==2.2.0
 urllib3==1.23
 wincertstore==0.2
-heroku addons:create mongolab:sandbox
+git push heroku master
